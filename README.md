@@ -2,7 +2,7 @@
 
 This is a wiki-like repo for collecting information and examples for efficient programming in array languages. 
 
-Most of the explanations here will be written from my understanding of the programs, so I do recommed scrutinizing the programs yourself first before reading them.
+Most of the explanations here will be written from my understanding of the programs, so I do recommend scrutinizing the programs yourself first before reading them.
 
 The general goal of this repository is to help people improve their understanding of array languages, and to have a wealth of examples for well-written array language code.
 
