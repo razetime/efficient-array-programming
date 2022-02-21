@@ -20,4 +20,4 @@ The general goal of this repository is to help people improve their understandin
  - [Andriy Makukha - APL Contest 2020](https://github.com/amakukha/apl-contest-2020)
  - [Bubbler-4 - Advent of APL](https://github.com/Bubbler-4/advent-of-apl)
  - [The APL Orchard chatroom logs](https://chat.stackexchange.com/rooms/52405/the-apl-orchard)
-
+- [Aaron Hsu on performant trees](https://www.youtube.com/watch?v=hzPd3umu78g)
