@@ -1,6 +1,15 @@
 # ngn/k
 
 ## General Tips
+- Dictionaries are not hashed, and they have order. If you want a proper
+  hashmap you need to create a hash function yourself.
+- ngn/k symbols are stored as 4 byte character arrays. Keeping your symbols
+  below 4 bytes will avoid overhead cause ngn/k otherwise will have to do a
+  table lookup instead.
+- `` `pri `` is a fast primitive for calculating primes.
+- Amend `@[;;;]` provides direct indexing and modification, and hence can often
+  be more potent than equivalent techniques that operate on whole arrays.
+- `\t` can be used to time a K expression.
 
 ## Solved Examples
 Since ngn/k is based on the k6 dialect, many of these examples will work in oK as well.
